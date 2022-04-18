@@ -1,3 +1,4 @@
 #!/bin/bash 
 echo "my file"
 echo "my file 2"
+echo "my file 3"
